@@ -18,3 +18,4 @@ static { System.out.println("you cant stop me"); }
 im having too much fun writing these
 im on acid. sulfuric.
 wtf is a melon loader??!?!?!?
+if you want a family friendly mod loader fuck right off to melonloader or bepinex im not gunna kiss your ass
